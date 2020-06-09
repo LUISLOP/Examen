@@ -33,6 +33,6 @@ cada signo zodiacal  llama a  una pagina
 
 **Jackson
 
-
+Mi aplicacion es sencilla y clara reproduce musica cada vez que le de click a una imagen.,,,
 
 **Vannessa
