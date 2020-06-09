@@ -23,8 +23,9 @@ el dispositivo cuente con los sensores requeridos
 
 Mi proyecto se basa de notas o mandados a cualquier persona o estudiante
 
-**Julliet
-
+**Juliette
+Mi Aplicacion se  trata de un horoscopo con  10 paginas cada pagina contiene entre 8 y 10 label  
+cada signo zodiacal  llama a  una pagina  
 
 
 **Dario
