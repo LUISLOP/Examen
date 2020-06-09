@@ -3,7 +3,7 @@
 Subir la aplicacion de su interes ,formato apk, y la extension .aia.
 
 **Erick
-
+App enseñando 4 mejores huecas de guayaquil + maps, iba a poner mas pero por el uso de la pc no pude hacerlo 
 
 
 
